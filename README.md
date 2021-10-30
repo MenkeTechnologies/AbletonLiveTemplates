@@ -1,2 +1,2 @@
-# Templates
+# Ableton Live Templates
 # created by MenkeTechnologies
